@@ -1,0 +1,30 @@
+body{
+    margin: 2rem;
+    display: block;
+    /* align-items: center; */
+}
+
+header{
+    background-color: rgb(255, 0, 98);
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+input{
+    width: 90%;
+    border: 1px solid coral;
+    border-radius: 5px;
+}
+label{
+    color:gold;
+    display: block;
+}
+button{
+    margin-top: 20px;
+    display: block;
+    background-color: cornflowerblue;
+    color:white;
+}
